@@ -15,7 +15,7 @@ Types of Contributions
 Report Bugs
 ~~~~~~~~~~~
 
-Report bugs at https://github.com/armell/openlabfreezer/issues.
+Report bugs at https://github.com/OpenResearchIntelligence/openlabfreezer/issues.
 
 If you are reporting a bug, please include:
 
